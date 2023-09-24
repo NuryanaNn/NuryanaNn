@@ -1,9 +1,9 @@
-# tested
+
 <img src="https://i.ibb.co/TYJdkVf/pp2.png" width="100%" alt="profile" border="0"/>
 <div>
 <img width="337" src="https://i.ibb.co/HVcDqJL/pp3.png" align=right />
 <br/>
-<img src="./img/AboutMe-elaina.png" width="470" />
+<img src="./img/AboutMe-elaina.png" width="400" />
 <br/>
 <br/>
 <br/>
