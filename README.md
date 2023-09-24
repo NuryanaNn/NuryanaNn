@@ -8,21 +8,17 @@
 <br/>
 <br/>
 
-- Name **Reidho Satria** / **レイドー サトリア**
+- Name **Nuryana N**
 
-- Live in **South Sumatra, Indonesia**
+- Live in **Sumedang, Indonesia**
 
-- Studying [**Junior Back-End Developer**](https://dicoding.com)
+- Studying [**Front-End Developer**]
 
-- Familiar with **GNU/Linux** and **FreeBSD**
-
-- Good with **JavaScript** , **PHP** , **CSS** , **HTML** and **Python**
-
-- Have high experience with **Photoshop** and **CorelDRAW**
+- Good with **HTML** , **CSS** , **Javascript** , **PHP**, **Tailwind**,  **CodeIgniter**
   
-- Understand 日本語, Bahasa Indonesia, Bahasa Melayu, and English
+- Understand Bahasa Indonesia & English
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&bg_color=22272E&text_bold=true" align=right />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuryanaNn&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&bg_color=22272E&text_bold=true" align=right />
 <br/>
 <br/>
 <img src="./img/Repo-elaina.png" width="488" />
