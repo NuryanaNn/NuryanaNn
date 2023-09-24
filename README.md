@@ -5,8 +5,6 @@
 <br/>
 <h1>Tentang Saya</h1>
 <br/>
-<br/>
-<br/>
 
 - Name **Nuryana N**
 
