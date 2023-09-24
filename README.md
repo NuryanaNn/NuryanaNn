@@ -18,6 +18,13 @@
   
 - Understand Bahasa Indonesia & English
 
+- <br/>
+  <br/>
+   <br/>
+  <br/>
+   <br/>
+  <br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuryanaNn&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&bg_color=22272E&text_bold=true" align=right />
 <br/>
 <br/>
