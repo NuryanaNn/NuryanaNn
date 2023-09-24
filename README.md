@@ -3,7 +3,7 @@
 <div>
 <img width="337" src="https://i.ibb.co/HVcDqJL/pp3.png" align=right />
 <br/>
-<img src="./img/AboutMe-elaina.png" width="400" />
+<h1>Tentang Saya</h1>
 <br/>
 <br/>
 <br/>
