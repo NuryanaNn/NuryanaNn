@@ -1,7 +1,7 @@
 
 <img src="https://i.ibb.co/TYJdkVf/pp2.png" width="100%" alt="profile" border="0"/>
 <div>
-<img width="337" src="635d2b63542928b152a4a903e9fd978f.png" align=right />
+<img width="300" src="635d2b63542928b152a4a903e9fd978f.png" align=right />
 <br/>
 <h1>Tentang Saya</h1>
 <br/>
