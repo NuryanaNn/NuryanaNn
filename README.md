@@ -7,14 +7,12 @@
 <br/>
 
 - Name **Nuryana N**
-
 - Live in **Sumedang, Indonesia**
-
 - Studying [**Front-End Developer**]
-
+- Job : SMK Teacher, Freelancer, Joki Tugas Teknik Informatika, Developer
 - Good with **HTML** , **CSS** , **Javascript** , **PHP**, **Tailwind**,  **CodeIgniter**
   
-- Understand Bahasa Indonesia & English
+- Understand Bahasa Sunda, Indonesia & English
 
   <br/>
   <br/>
