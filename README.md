@@ -30,4 +30,6 @@
 <a href="#"><img src="https://img.shields.io/badge/%23-2e3440?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-2e3440?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-2e3440?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-2e3440?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-2e3440?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-2e3440?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-2e3440?style=for-the-badge"/></a>
 </p>
 
+![Nuryana's github stats](https://github-readme-stats.vercel.app/api?username=NuryanaNn&show_icons=true&theme=dark)
+
 </div>
