@@ -31,6 +31,6 @@
 </p>
 
 ![Nuryana's github stats](https://github-readme-stats.vercel.app/api?username=NuryanaNn&show_icons=true&theme=dark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=NuryanaNn)](https://github.com/NuryanaNn/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NuryanaNn&theme=onedark)](https://github.com/NuryanaNn/github-profile-trophy)
 
 </div>
